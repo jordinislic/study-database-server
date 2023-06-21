@@ -1,4 +1,4 @@
-module awesomeProject1
+module jordinislic/study-database-server
 
 go 1.20
 
