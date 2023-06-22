@@ -1,4 +1,4 @@
-module jordinislic/study-database-server
+module github.com/jordinislic/study-database-server
 
 go 1.20
 
